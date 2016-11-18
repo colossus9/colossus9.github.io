@@ -1,4 +1,20 @@
-name: About Me
-markdown: kramdown
-highlighter: rouge
-baseurl: /colossus9
+url : https://pages.github.hpe.com/james-rob-garcia/
+title : About Me
+subtitle : A thought about the rest
+
+author :
+  name : James Garcia
+  email : jrgarcia786@gmail.com
+  description : Quick way to get to know me
+  github : https://github.com/colossus9
+  twitter : https://twitter.com/c0l0ssus9
+
+markdown : kramdown
+highlighter : rouge
+baseurl : /colossus9
+
+# Default date format is "ordinal" (resulting in "July 22nd 2007")
+# You can customize the format as defined in
+# http://www.ruby-doc.org/core-1.9.2/Time.html#method-i-strftime
+# Additionally, %o will give you the ordinal representation of the day
+date_format: "ordinal"

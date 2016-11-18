@@ -1,4 +1,4 @@
 name: About Me
 markdown: redcarpet
-pygments: true
+highlighter: rouge
 baseurl: /colossus9

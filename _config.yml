@@ -11,7 +11,7 @@ author :
 
 markdown : kramdown
 highlighter : rouge
-baseurl : /colossus9
+baseurl : /james-rob-garcia
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in

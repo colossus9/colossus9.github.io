@@ -11,6 +11,7 @@ author :
   twitter : https://twitter.com/c0l0ssus9
   facebook : http://www.facebook.com/c0lossus9
   resume : Resume.md
+  credits: Credits.md
 
 markdown : kramdown
 highlighter : rouge

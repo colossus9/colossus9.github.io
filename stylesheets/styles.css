@@ -546,13 +546,13 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   color: #e8e8e8;
-  margin: 0 0 10px;
+  margin: 75 0 10px;
   font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
 }
 
 p, ul, ol, table, pre, dl {
-  margin: 0 0 100px;
+  margin: 0 0 20px;
 }
 
 h1, h2, h3 {

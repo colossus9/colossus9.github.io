@@ -20,6 +20,8 @@ two outstanding children under 5 that i am immensely proud of
 
 ChatOps, Remote, Office, In Person, Passions, Documentation in Markdown, Technical Writing, Listening to Developers, immediate team of 10, larger team of 80, supporting 100k devs and 300k with business orgs
 
+i have had the privilege of serving in multiple roles and capacities
+
 ## Notable Work
 
 ## Presentations

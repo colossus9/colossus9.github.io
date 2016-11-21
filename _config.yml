@@ -1,5 +1,5 @@
 url : https://pages.github.hpe.com/james-rob-garcia/
-code: https://github.hpe.com/james-rob-garcia/james-rob-garcia.github.hpe.com
+code : https://github.hpe.com/james-rob-garcia/james-rob-garcia.github.hpe.com
 title : James Garcia
 subtitle : About Me
 
@@ -13,7 +13,7 @@ author :
   facebook : http://www.facebook.com/c0lossus9
   forj : http://h41367.www4.hpe.com/campaigns/IT_Experts/pages/forj.html
   resume : Resume.md
-  credits: credits.html
+  credits : credits.html
 
 markdown : kramdown
 highlighter : rouge

@@ -807,11 +807,11 @@ section #title p {
   text-align: center;
 }
 section #title .profile.image.center {
-  display: block;
-  margin: auto;
+  /*display: block;*/
+  /*margin: auto;*/
   border-radius: 50%;
-  width: 200;
-  height: 200;
+  /*width: 200;*/
+  /*height: 200;*/
 }
 section #title .credits {
   font-size: 11px;

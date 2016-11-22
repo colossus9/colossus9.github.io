@@ -806,10 +806,10 @@ section #title p {
   font-size: 18px;
   text-align: center;
 }
-section #title .profile.image.center {
-  /*display: block;*/
-  /*margin: auto;*/
-  border-radius: 50%;
+section #title .profile {
+  display: block;
+  margin: auto;
+  /*border-radius: 50%;*/
   /*width: 200;*/
   /*height: 200;*/
 }

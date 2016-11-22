@@ -615,14 +615,6 @@ section img {
   max-width: 100%;
 }
 
-profile {
-  display: block;
-  margin: auto;
-  border-radius: 50%;
-  /*width: 200;*/
-  /*height: 200;*/
-}
-
 blockquote {
   border-left: 3px solid #ffcc00;
   margin: 0;

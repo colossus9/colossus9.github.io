@@ -615,6 +615,14 @@ section img {
   max-width: 100%;
 }
 
+profile {
+  display: block;
+  margin: auto;
+  border-radius: 50%;
+  /*width: 200;*/
+  /*height: 200;*/
+}
+
 blockquote {
   border-left: 3px solid #ffcc00;
   margin: 0;
@@ -805,13 +813,6 @@ section #title p {
   font-weight: normal;
   font-size: 18px;
   text-align: center;
-}
-section #title .profile {
-  display: block;
-  margin: auto;
-  /*border-radius: 50%;*/
-  /*width: 200;*/
-  /*height: 200;*/
 }
 section #title .credits {
   font-size: 11px;

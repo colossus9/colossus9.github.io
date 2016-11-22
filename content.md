@@ -37,3 +37,16 @@ TBD
 ## Hobbies
 
 TBD
+
+
+
+### Pictures To Put here
+
+discover
+me talking to customers about how Github Enterprise can be the foundation of their CI/CD pipeline
+
+Shanghai
+
+Austin digirev
+
+kids

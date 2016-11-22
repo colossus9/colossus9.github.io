@@ -36,12 +36,7 @@ We work in a mix of office and remote settings. About 10% of my team is located 
 
 There are multiple ChatOps tools available, I have personally used Slack and Flowdock frequently.
 
-Documentation is another key aspect of my work. I claim to have exceptional technical and non-technical writing abilities, and constantly apply writing to everything I do. This includes how-to's, implementation steps, training material, etc. Lately I have focused on writing Markdown-formatted documents on our internal GitHub Enterprise instance. I have written many technical documents, including:
-
-- GitHub in the Enterprise
-- Benefits of Social Coding
-- Technical Implementation change records for both monolithic- and microservice-oriented applications
-- Misc...
+Documentation is another key aspect of my work. I claim to have exceptional technical and non-technical writing abilities, and constantly apply writing to everything I do. This includes how-to's, implementation steps, training material, etc. Lately I have focused on writing Markdown-formatted documents on our internal GitHub Enterprise instance.
 
 
 
@@ -51,11 +46,45 @@ i have had the privilege of serving in multiple roles and capacities
 
 ## Notable Work
 
-## Presentations
+Details are in my Resume, but I'd like to highlight a few of my recent standout work.
+
+I have written many technical documents, including:
+
+- GitHub in the Enterprise
+- Benefits of Social Coding
+- Technical Implementation change records for both monolithic- and microservice-oriented applications
+- Misc...
+
+I have served as a technical demo staffer for Hewlett Packard Enterprise (HPE) at two of the HPE Discover conferences:
+
+- HPE Discover 2015 London
+- HPE Discover 2016 Las Vegas
+
+Attended relevant conferences:
+
+- DevOps Enterprise Summit 2014 (San Francisco, CA, US)
+- Dockercon 2015 (San Francisco, CA, US)
+- South by Southwest (Austin, TX, US)
+
+I have given many presentations and training classes, including:
+
+
+- GitHub Enterprise administrator and user training, more than just opening the site and pushing code (Shanghai, China)
+- [FORJ product](http://h41367.www4.hpe.com/campaigns/IT_Experts/pages/forj.html) planning and work sessions (Guadalajara, Mexico)
+- Docker Beginner/Intermediate Training in three locations (Austin, Houston, Fort Collins)
+- DevOps Dojo, to give 1-on-1 training to teams in the Austin-area
+- DevOps for IT in multiple locations
+
+Held remote worksessions
+
+- HP Software Pipeline improvements (Tel Aviv, Israel)
+    - Includes sitting down with developers here to understand their pain points
+
+Read DevOps books
 
 ## Details
 
-TBD
+TBD (Resume?)
 
 ## Interests
 

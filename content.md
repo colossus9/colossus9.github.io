@@ -8,7 +8,7 @@ James Garcia
 
 I am an experienced developer with over 7 years working in the Austin, TX area who has a passion for making the entire software development lifecycle simply better. Whether it is for my immediate team or for the customers I support my teams practice and promote DevOps methodology, learning about what makes development organizations productive and placing focus on key aspects that need improvement.
 
-We work to reduce and prevent technical debt by automating where possible, and we do our due diligence to ensure what we are working on is beneficial
+We work to reduce and prevent technical debt by automating where possible, and we do our due diligence to ensure the value of what we are working on can be realized by the business.
 
 two outstanding children under 5 that i am immensely proud of
 

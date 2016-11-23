@@ -6,11 +6,11 @@ James Garcia
 
 ## Who I Am
 
-I am an experienced developer with over 7 years working in the Austin, TX area who has a passion for making the entire software development lifecycle simply better. Whether it is for my immediate team or for the customers I support my teams practice and promote DevOps methodology, learning about what makes development organizations productive and placing focus on key aspects that need improvement.
+I am an experienced developer with over 7 years working in the Austin, TX area who has a strong sense of empathy and a passion for making the entire software development lifecycle simply better. Whether it is for my immediate team or for the customers I support, my teams practice and promote DevOps methodology, learning about what makes development organizations productive and placing focus on key aspects that need improvement.
 
 We work to reduce and prevent technical debt by automating where possible, and we do our due diligence to ensure the value of what we are working on can be realized by the business.
 
-two outstanding children under 5 that i am immensely proud of
+I have two outstanding children under 5 and a lovely wife that I am immensely proud of.
 
 ## Ask Me...
 
@@ -36,13 +36,19 @@ We work in a mix of office and remote settings. About 10% of my team is located 
 
 There are multiple ChatOps tools available, I have personally used Slack and Flowdock frequently.
 
-Documentation is another key aspect of my work. I claim to have exceptional technical and non-technical writing abilities, and constantly apply writing to everything I do. This includes how-to's, implementation steps, training material, etc. Lately I have focused on writing Markdown-formatted documents on our internal GitHub Enterprise instance.
+Documentation is another key aspect of my work. I can claim to have exceptional technical and non-technical writing abilities, and I constantly apply writing to everything I do. This includes how-to's, implementation steps, training material, etc. Lately I have focused on writing Markdown-formatted documents on our internal GitHub Enterprise instance.
 
+I have had the privilege of serving in multiple roles and capacities over the course of my career and am always looking to apply and expand my expertise. Some of the roles I have served in includes:
 
-
-ChatOps, Remote, Office, In Person, Passions, Documentation in Markdown, Technical Writing, Listening to Developers, immediate team of 10, larger team of 80, supporting 100k devs and 300k with business orgs
-
-i have had the privilege of serving in multiple roles and capacities
+- Evangelist of GitHub Enterprise, DevOps Methodology and ChatOps
+- Business Liason, listening to requirements
+- Innovator/Developer
+- Vendor Relationships
+- Customer Service
+- Software Development Lifecycle
+- Escalations and firedrill reactions
+- Technical Writing and documentation
+- Relationship with people from many backgrounds and locations all over the world
 
 ## Notable Work
 

@@ -20,10 +20,10 @@ My specific goals are not necessarily tied to an individual "type" of work, but 
 
 ## How I Enjoy Working
 
-We work in a mix of office and remote settings. About 10% of my team is located in the office, but the remainder of the team and the customers we support are remote, in locations all over the world. I am comfortable in either setting, but have placed a lot of focus on maturing in the remote space with our ChatOps solution due to the benefits it provides:
+We work in a mix of office and remote settings. About 10% of my team is located in the office, but the remainder of the team and the customers we support are remote, in locations all over the world. I am comfortable in either setting (especially in an asynchronous conversation-based environment), and have placed a lot of focus on maturing in the remote space with our ChatOps solution due to the benefits it provides:
 
 - Reduction of tribal knowledge
-    - Faster Onboarding
+    - Faster Onboarding of new team members
 - Data on-demand (static, programmatic, API-driven, etc)
 - API Integrations with Dev tools (GitHub, Jenkins, Artifacts, Defect/Requirement Tracking, Knowledge-base integration, PaaS interaction, etc)
 - A multithreaded chat solution like Flowdock can keep conversations relevant
@@ -56,21 +56,26 @@ I enjoy working with people from all over the world and always show empathy to t
 
 ## Notable Work
 
-Details are in my Resume, but I'd like to highlight a few of my recent standout work.
+Details are in my Resume, but I'd like to show a few of my more recent highlights below.
 
 I have written many technical documents, including:
 
 - GitHub in the Enterprise
 - Benefits of Social Coding
 - Technical Implementation change records for both monolithic- and microservice-oriented applications
-- Misc...
 
-I have served as a technical demo staffer for Hewlett Packard Enterprise (HPE) at two of the HPE Discover conferences:
+I have served as a technical demo staffer for Hewlett Packard Enterprise (HPE) at two of the public HPE Discover conferences:
 
-- HPE Discover 2015 London
-- HPE Discover 2016 Las Vegas
+- HPE Discover 2015 (London, England)
+    - **Title**: _Use DevOps to Shift Left for Enterprise Success_
+        - Shifting left requires two key DevOps practices: continuous testing and continuous deployment
+        - Using hubot to deploy Dev/Test/Pro instance of GitHub Enterprise in Helion OpenStack environment
+- HPE Discover 2016 (Las Vegas)
+    - **Title**: _IT Practitioner's Zone: DevOps in Action, Scaling to the Enterprise_
+        - Answering myths about applying DevOps in a large enterprise
+        - Listening to customers to come up with localized solutions       
 
-Attended relevant conferences:
+Attended other conferences relevant to transformation work we work towards:
 
 - DevOps Enterprise Summit 2014 (San Francisco)
 - Dockercon 2015 (San Francisco)
@@ -86,36 +91,58 @@ I have given many presentations and training classes, including:
 - DevOps Dojo, to give 1-on-1 training to teams in the Austin-area
 - DevOps for IT in multiple locations
 
-Held remote worksessions
+Traveled to regional locations for team worksessions:
 
-- HP Software Pipeline improvements (Tel Aviv, Israel)
-    - Includes sitting down with developers here to understand their pain points
+- HP Software development improvements (Tel Aviv, Israel)
+- GitHub Enterprise hosting CI/CD pipeline planning (Shanghai, China)
+- Source Code Management (SCM) solution design (Guadalajara, Mexico)
+- SCM supplemental artifact hosting repository design (Palo Alto)
+- Promotion of GitHub Enterprise as central to IT innovation (Fort Collins)
 
-Read DevOps books
+Recommended books on DevOps:
 
-Technical work
+- _The Phoenix Project_ by Kim, Behr and Spafford
+- _Continuous Delivery_ by Humble and Farley
+- _Leading the Transformation_ by Gruver and Mouser
+- _Lean Enterprise_ by Humble, Molesky & O'Reilly
 
+Additional technical work:
+
+- Primary GitHub Enterprise Administrator at Hewlett Packard
+    - Responsible for Infrastructure, Application Training (admin/user), Testing, Monitoring, Analytics, KPI definition and GitHub (vendor) liason
 - GitHub Enterprise Upgrade Pipeline using Ansible and Testing Framework using Selenium
 - Dockerized Administration Utilities for CollabNet Subversion Edge environment
+- Created subversion server wrapper for striping repository data on multiple filesystems
+- Displaying GitHub Enterprise collectd data graphs in ChatOps via Hubot commands
 
-## Details
+For additional details, please checkout my Resume, or ask!
 
-TBD (Resume?)
+## Interests and Hobbies
 
-## Interests
+**For work interests and hobbies,** I am interested in learning about the latest relevant technologies to enable development teams to move at the speed of business. The definition of a developer from my perspective has evolved to include many concepts...no longer is a high-performing developer only involved in coding and database work. To be a high-performing developer, you must also have proficiency in business analysis, automated testing, infrastructure as code, security minded, operations/support, user experience, etc.
 
-TBD
+Traditional thinking when it comes to designing a solution tends to look something like:
 
-## Hobbies
+- Visual
+- Interaction
+- Logic
+- Data
+- Infrastructure
 
-TBD
+The terms "front-end" tend to apply to Visual/Interaction while "back-end" tends to apply to Data/Infrastructure. Then, the Logic layer tends to be an integration to form a sort of "Technologist" role where things like APIs and magic happens to fit the two together. Rather than thinking in these terms, applying full-stack design thinking would free up a developer's mind to focus on the solution-centric design rather than only the user-centric outcome.
 
+I enjoy reading other developer blogs to gain insight, attending conferences to hear about new trends, and listening to developer pain points to attempt to come up with solutions. Last but not least, I am a data-driven person, in which I like to make decisions based on data vs. assumptions, and will work to data mine where I can to make more informed decisions.
 
+**For personal interests and hobbies,** my top priority is my family. They are what drives me to go further, they support me in what I do and I work to teach them concepts from the technology industry.
+
+We like to travel when possible for work or leisure in any capacity (hiking, driving, flying, sight-seeing, etc). We have used the opportunities in the locations described above to see once-in-a-lifetime landmarks and hope to make it back to those places with the full family soon!
+
+I enjoy a variety of sports and cheer for my Texas-based college/professional teams, including basketball, baseball, soccer and football. My favorite sport is college football. When given a chance, I will play in any sport on a team...some say I can be quite competitive...
 
 ### Pictures To Put here
 
-discover
-me talking to customers about how Github Enterprise can be the foundation of their CI/CD pipeline
+discover (SAM_1070.JPG)
+me talking to customers about how Github Enterprise can be the foundation of their CI/CD pipeline (20160609_110454_James.jpg)
 
 Shanghai
 

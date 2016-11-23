@@ -6,15 +6,17 @@ James Garcia
 
 ## Who I Am
 
-I am an experienced developer with over 7 years working in the Austin, TX area who has a strong sense of empathy and a passion for making the entire software development lifecycle simply better. Whether it is for my immediate team or for the customers I support, my teams practice and promote DevOps methodology, learning about what makes development organizations productive and placing focus on key aspects that need improvement.
+I am an experienced developer with over 7 years working in Austin, TX who has a strong sense of empathy leading world-wide teams to implement and support enterprise-grade software development solutions. Whether it is for my immediate team or for the customers I support, my teams practice and promote DevOps methodology, learning about what makes development organizations productive and placing focus on key aspects that need improvement.
 
-We work to reduce and prevent technical debt by automating where possible, and we do our due diligence to ensure the value of what we are working on can be realized by the business.
+We work to reduce and prevent technical debt by automating where possible, and we do our due diligence to ensure the value of what we are working on can be realized by the business. This work includes (but is not limited to) individual technical contributions (writing code, building SDLC pipelines), holding architectural reviews with management, presenting deep technical material at a high level to both peers and management, and speaking directly to customers about solutions.
 
-I have two outstanding children under 5 and a lovely wife that I am immensely proud of.
+I have two outstanding children under 5 and a lovely wife in the educational field that I am immensely proud of. They have been hugely supportive of me as I have traveled the world and worked with people from all backgrounds to talk about adapting or transforming their workflows, including the adoption of DevOps/ChatOps.
 
 ## Ask Me...
 
 ...anything you would like to know, whether it is personal or work related. I will try to give you a few details below, but if you would like to have a conversation about how I like to work, what I like to do in my free time, or what my passions are, feel free to ask anytime.
+
+My specific goals are not necessarily tied to an individual "type" of work, but rather I strive to understand the needs of a team and how I can apply my expertise to drive solutions, even if it is individual technical work or a higher-level architectural role.
 
 ## How I Enjoy Working
 
@@ -50,6 +52,8 @@ I have had the privilege of serving in multiple roles and capacities over the co
 - Technical Writing and documentation
 - Relationship with people from many backgrounds and locations all over the world
 
+I enjoy working with people from all over the world and always show empathy to those who I can make an impact on.
+
 ## Notable Work
 
 Details are in my Resume, but I'd like to highlight a few of my recent standout work.
@@ -68,9 +72,10 @@ I have served as a technical demo staffer for Hewlett Packard Enterprise (HPE) a
 
 Attended relevant conferences:
 
-- DevOps Enterprise Summit 2014 (San Francisco, CA, US)
-- Dockercon 2015 (San Francisco, CA, US)
-- South by Southwest (Austin, TX, US)
+- DevOps Enterprise Summit 2014 (San Francisco)
+- Dockercon 2015 (San Francisco)
+- South by Southwest (Austin)
+- TechCon 2016 (San Antonio)
 
 I have given many presentations and training classes, including:
 
@@ -87,6 +92,11 @@ Held remote worksessions
     - Includes sitting down with developers here to understand their pain points
 
 Read DevOps books
+
+Technical work
+
+- GitHub Enterprise Upgrade Pipeline using Ansible and Testing Framework using Selenium
+- Dockerized Administration Utilities for CollabNet Subversion Edge environment
 
 ## Details
 

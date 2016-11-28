@@ -10,7 +10,9 @@ I am an experienced developer with over 7 years working in Austin, TX who has a 
 
 We work to reduce and prevent technical debt by automating where possible, and we do our due diligence to ensure the value of what we are working on can be realized by the business. This work includes (but is not limited to) individual technical contributions (writing code, building SDLC pipelines), holding architectural reviews with management, presenting deep technical material at a high level to both peers and management, and speaking directly to customers about solutions.
 
-I have two outstanding children under 5 and a lovely wife in the educational field that I am immensely proud of. They have been hugely supportive of me as I have traveled the world and worked with people from all backgrounds to talk about adapting or transforming their workflows, including the adoption of DevOps/ChatOps.
+I have two outstanding children under 5 and a lovely wife in the educational field that I am immensely proud of. They have been hugely supportive of me as I have traveled the world and worked with people from all backgrounds to talk about adapting or transforming their workflows, including the adoption of DevOps/ChatOps. My line of thinking is definitely broadened and empowered with the perspectives they provide me. Understanding how my children learn and being involved with my wife's classroom sheds light on the potential that can be accomplished with effective communication.
+
+I have never been very active on social media due to the fact I enjoy talking directly to folks or prefer writing technical content for distribution, although I am open to the idea. I have an optimistic outlook on work and personal items and enjoy looking for ways to make life better for both.
 
 ## Ask Me...
 
@@ -131,11 +133,13 @@ Traditional thinking when it comes to designing a solution tends to look somethi
 
 The terms "front-end" tend to apply to Visual/Interaction while "back-end" tends to apply to Data/Infrastructure. Then, the Logic layer tends to be an integration to form a sort of "Technologist" role where things like APIs and magic happens to fit the two together. Rather than thinking in these terms, applying full-stack design thinking would free up a developer's mind to focus on the solution-centric design rather than only the user-centric outcome.
 
-I enjoy reading other developer blogs to gain insight, attending conferences to hear about new trends, and listening to developer pain points to attempt to come up with solutions. Last but not least, I am a data-driven person, in which I like to make decisions based on data vs. assumptions, and will work to data mine where I can to make more informed decisions.
+I enjoy reading other developer blogs to gain insight, attending conferences to hear about new trends, and listening to developer pain points to attempt to come up with solutions. For example, lately I have been looking to reduce infrastructure costs a la OpenStack and Docker containers. I am also a data-driven person, in which I like to make decisions based on data vs. assumptions, and will work to data mine where I can to make more informed decisions.
 
 **For personal interests and hobbies,** my top priority is my family. They are what drives me to go further, they support me in what I do and I work to teach them concepts from the technology industry.
 
 We like to travel when possible for work or leisure in any capacity (hiking, driving, flying, sight-seeing, etc). We have used the opportunities in the locations described above to see once-in-a-lifetime landmarks and hope to make it back to those places with the full family soon!
+
+In terms of hobbies, great question! Cars are most likely my favorite...my in-laws live nearby and are Corvette enthusiasts. One day I hope to get a toy I can play with :smiley:
 
 I enjoy a variety of sports and cheer for my Texas-based college/professional teams, including basketball, baseball, soccer and football. My favorite sport is college football. When given a chance, I will play in any sport on a team...some say I can be quite competitive...
 
@@ -145,7 +149,5 @@ discover (SAM_1070.JPG)
 me talking to customers about how Github Enterprise can be the foundation of their CI/CD pipeline (20160609_110454_James.jpg)
 
 Shanghai
-
 Austin digirev
-
 kids

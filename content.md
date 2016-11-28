@@ -6,23 +6,23 @@ James Garcia
 
 ## Who I Am
 
-I am an experienced developer with over 7 years working in Austin, TX who has a strong sense of empathy leading world-wide teams to implement and support enterprise-grade software development solutions. Whether it is for my immediate team or for the customers I support, my teams practice and promote DevOps methodology, learning about what makes development organizations productive and placing focus on key aspects that need improvement.
+I am an experienced developer with over 7 years working in **Austin, TX** who has a strong sense of empathy leading world-wide teams to implement and support enterprise-grade software development solutions. Whether it is for my immediate team or for the customers I support, my teams practice/promote [DevOps](https://devops.com/the-holistic-nature-of-devops-architecture-and-methodology/) methodology and learn about what makes development organizations productive and placing focus on key aspects that need improvement.
 
-We work to reduce and prevent technical debt by automating where possible, and we do our due diligence to ensure the value of what we are working on can be realized by the business. This work includes (but is not limited to) individual technical contributions (writing code, building SDLC pipelines), holding architectural reviews with management, presenting deep technical material at a high level to both peers and management, and speaking directly to customers about solutions.
+We work to eliminate technical debt by **automating where possible**, and we do our due diligence to ensure the value of what we are working on can be realized by the business. This work includes (but is not limited to) **individual technical contributions (writing code, building SDLC pipelines), holding architectural reviews with management, presenting deep technical material at a high level to both peers and management, and speaking directly to customers about solutions**.
 
-I have two outstanding children under 5 and a lovely wife in the educational field that I am immensely proud of. They have been hugely supportive of me as I have traveled the world and worked with people from all backgrounds to talk about adapting or transforming their workflows, including the adoption of DevOps/ChatOps. My line of thinking is definitely broadened and empowered with the perspectives they provide me. Understanding how my children learn and being involved with my wife's classroom sheds light on the potential that can be accomplished with effective communication.
+I have **two outstanding children under 5 and a lovely wife in the educational field** that I am immensely proud of. They have been hugely supportive of me as I have traveled the world and worked with people from all backgrounds to talk about adapting or transforming their workflows, including the adoption of DevOps/ChatOps. My line of thinking is definitely broadened and empowered with the perspectives they provide me. Understanding how my children learn and being involved with my wife's classroom sheds light on the potential that can be accomplished with **effective communication**.
 
-I have never been very active on social media due to the fact I enjoy talking directly to folks or prefer writing technical content for distribution, although I am open to the idea. I have an optimistic outlook on work and personal items and enjoy looking for ways to make life better for both.
+I admittedly have not been very active on social media due to the fact I **enjoy talking directly to folks** or prefer writing technical content for distribution, although I am absolutely open to the idea. I have an **optimistic outlook** on work and personal items and enjoy looking for ways to make life **better** for both.
 
 ## Ask Me...
 
-...anything you would like to know, whether it is personal or work related. I will try to give you a few details below, but if you would like to have a conversation about how I like to work, what I like to do in my free time, or what my passions are, feel free to ask anytime.
+...**anything** you would like to know, whether it is personal or work related. I will try to give you a few details below, but if you would like to have a conversation about how I like to work, what I like to do in my free time, or what my passions are, feel free to ask **anytime**.
 
 My specific goals are not necessarily tied to an individual "type" of work, but rather I strive to understand the needs of a team and how I can apply my expertise to drive solutions, even if it is individual technical work or a higher-level architectural role.
 
 ## How I Enjoy Working
 
-We work in a mix of office and remote settings. About 10% of my team is located in the office, but the remainder of the team and the customers we support are remote, in locations all over the world. I am comfortable in either setting (especially in an asynchronous conversation-based environment), and have placed a lot of focus on maturing in the remote space with our ChatOps solution due to the benefits it provides:
+We work in a mix of office and remote settings. About 10% of my team is located in the office, but the remainder of the team and the customers we support are remote, in locations all over the world. I am comfortable in either setting (especially in an **asynchronous conversation-based environment**), and have placed a lot of focus on maturing in the remote space with our **ChatOps** solution due to the benefits it provides:
 
 - Reduction of tribal knowledge
     - Faster Onboarding of new team members
@@ -38,11 +38,11 @@ We work in a mix of office and remote settings. About 10% of my team is located 
 - Pro-active alerts with [hubot](https://hubot.github.com)
     - An interactive, 24/7 employees
 
-There are multiple ChatOps tools available, I have personally used Slack and Flowdock frequently.
+There are multiple ChatOps tools available, I have personally used [Slack](https://slack.com/) and [Flowdock](https://www.flowdock.com) frequently.
 
-Documentation is another key aspect of my work. I can claim to have exceptional technical and non-technical writing abilities, and I constantly apply writing to everything I do. This includes how-to's, implementation steps, training material, etc. Lately I have focused on writing Markdown-formatted documents on our internal GitHub Enterprise instance.
+**Documentation** is another key aspect of my work. Technical work cannot be valued unless it is articulated correctly. I can claim to have exceptional technical and non-technical writing abilities, and I constantly apply writing to everything I do. This includes how-to's, implementation steps, training material, etc. Lately I have focused on writing Markdown-formatted documents on our internal GitHub Enterprise instance.
 
-I have had the privilege of serving in multiple roles and capacities over the course of my career and am always looking to apply and expand my expertise. Some of the roles I have served in includes:
+I have had the privilege of serving in multiple roles and capacities over the course of my career and am always looking to apply and expand my expertise. **Some of the roles** I have served in includes:
 
 - Evangelist of GitHub Enterprise, DevOps Methodology and ChatOps
 - Business Liason, listening to requirements
@@ -54,7 +54,7 @@ I have had the privilege of serving in multiple roles and capacities over the co
 - Technical Writing and documentation
 - Relationship with people from many backgrounds and locations all over the world
 
-I enjoy working with people from all over the world and always show empathy to those who I can make an impact on.
+I enjoy working with people from all over the world and always show **empathy** to those who I can make an impact on.
 
 ## Notable Work
 

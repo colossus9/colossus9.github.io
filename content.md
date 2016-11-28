@@ -36,7 +36,7 @@ We work in a mix of office and remote settings. About 10% of my team is located 
 - Persistent Chat
 - Mobile App Accessible
 - Pro-active alerts with [hubot](https://hubot.github.com)
-    - An interactive, 24/7 employees
+    - An interactive, 24/7 employee
 
 There are multiple ChatOps tools available, I have personally used [Slack](https://slack.com/) and [Flowdock](https://www.flowdock.com) frequently.
 

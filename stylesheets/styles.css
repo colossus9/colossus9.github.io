@@ -352,12 +352,6 @@ img {
   /* 2 */
 }
 
-figure {
-  float: center;
-  padding: 15px;
-  text-align: center;
-}
-
 /*
  * Corrects overflow displayed oddly in IE9
  */
@@ -373,6 +367,9 @@ svg:not(:root) {
  */
 figure {
   margin: 0;
+  float: center;
+  padding: 15px;
+  text-align: center;
 }
 
 /* =============================================================================

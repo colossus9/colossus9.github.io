@@ -582,7 +582,8 @@ h3 {
 a {
   color: #ffcc00;
   font-weight: 400;
-  text-decoration: none;
+  /*text-decoration: none;*/
+  text-decoration: underline;
 }
 a:hover {
   color: #ffeb9b;

@@ -368,9 +368,9 @@ svg:not(:root) {
 figure {
   margin: 0;
   float: center;
-  padding: 15px;
+  padding: 50px;
   text-align: center;
-  display: inline-block;
+  display: block;
   position: relative;
   overflow:hidden;
 }

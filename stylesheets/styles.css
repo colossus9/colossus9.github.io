@@ -384,6 +384,7 @@ figcaption {
   bottom:-50px;
   width:100%;
   transition: bottom 0.5s ease;
+  font-style: italic;
 }
 
 /* =============================================================================

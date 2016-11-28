@@ -368,11 +368,21 @@ svg:not(:root) {
 figure {
   margin: 0;
   float: center;
-  padding: 50px;
+  padding: 15px;
   text-align: center;
-  display: block;
+  display: inline-block;
   position: relative;
   overflow:hidden;
+}
+
+figcaption {
+  position: absolute;
+  height:50px;
+  line-height:50px;
+  background-color: grey;
+  bottom:-50px;
+  width:100%;
+  transition: bottom 0.5s ease;
 }
 
 /* =============================================================================

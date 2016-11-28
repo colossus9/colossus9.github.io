@@ -352,6 +352,14 @@ img {
   /* 2 */
 }
 
+figure {
+  border: 1;
+
+}
+figcaption {
+    display: block;
+}
+
 /*
  * Corrects overflow displayed oddly in IE9
  */

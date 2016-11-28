@@ -353,8 +353,9 @@ img {
 }
 
 figure {
-  border: 1;
-
+  float: center;
+  padding: 15px;
+  text-align: center;
 }
 figcaption {
     display: block;

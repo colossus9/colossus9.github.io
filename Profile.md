@@ -1,14 +1,19 @@
-[Go to GitHub Page](https://pages.github.hpe.com/james-rob-garcia/)
+_[Switch to GitHub Pages Version](https://pages.github.hpe.com/james-rob-garcia/)_
 
 ***
 
-[:linkedin:LinkedIn](https://www.linkedin.com/in/jrgarcia786) [:octocat:GitHub](https://github.com/colossus9) [Email](jrgarcia786@gmail.com) [:facebook:Facebook](http://www.facebook.com/c0lossus9) [:twitter:Twitter](https://twitter.com/c0l0ssus9) [:page_facing_up:Resume](https://pages.github.hpe.com/james-rob-garcia/Resume.md)
+# Get to know me - James Garcia
 
-***
+**Reach out to Me!**
 
-# Get to know me
+- [LinkedIn](https://www.linkedin.com/in/jrgarcia786)
+- [GitHub](https://github.com/colossus9)
+- [Email](mailto:jrgarcia786@gmail.com)
+- [Facebook](https://www.facebook.com/c0lossus9)
+- [Twitter](https://twitter.com/c0l0ssus9)
+- [Resume](https://pages.github.hpe.com/james-rob-garcia/Resume.md)
 
-James Garcia
+**Sections:**
 
 - [Who I Am](https://github.hpe.com/james-rob-garcia/james-rob-garcia.github.hpe.com/blob/master/Profile.md#who-i-am)
 - [Ask Me](https://github.hpe.com/james-rob-garcia/james-rob-garcia.github.hpe.com/blob/master/Profile.md#ask-me)
@@ -109,7 +114,7 @@ I have given many presentations and training classes, including:
 
 
 - [GitHub Enterprise administrator](https://enterprise.github.com/) and user training, more than just opening the site and pushing code (Shanghai, China)
-- [FORJ product](http://h41367.www4.hpe.com/campaigns/IT_Experts/pages/forj.html) planning and work sessions (Guadalajara, Mexico)
+- **HPE FORJ** product planning and work sessions (Guadalajara, Mexico)
 - [Docker](https://www.docker.com/) Beginner/Intermediate Training in three locations (Austin, Houston, Fort Collins)
 - DevOps Dojo, to give 1-on-1 training to teams in the Austin-area
 - DevOps for IT in multiple locations

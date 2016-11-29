@@ -2,7 +2,7 @@
 
 ***
 
-[LinkedIn](https://www.linkedin.com/in/jrgarcia786)|[:octocat:GitHub](https://github.com/colossus9)|[Email](jrgarcia786@gmail.com)|[Facebook](http://www.facebook.com/c0lossus9)|[Twitter](https://twitter.com/c0l0ssus9)|[:page_facing_up:Resume](https://pages.github.hpe.com/james-rob-garcia/Resume.md)
+[:linkedin:LinkedIn](https://www.linkedin.com/in/jrgarcia786) [:octocat:GitHub](https://github.com/colossus9) [Email](jrgarcia786@gmail.com) [:facebook:Facebook](http://www.facebook.com/c0lossus9) [:twitter:Twitter](https://twitter.com/c0l0ssus9) [:page_facing_up:Resume](https://pages.github.hpe.com/james-rob-garcia/Resume.md)
 
 ***
 

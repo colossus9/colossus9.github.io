@@ -78,6 +78,9 @@ I have served as a technical demo staffer for Hewlett Packard Enterprise (HPE) a
     - **Title**: _Use DevOps to Shift Left for Enterprise Success_
         - Shifting left requires two key DevOps practices: continuous testing and continuous deployment
         - Using hubot to deploy Dev/Test/Pro instance of GitHub Enterprise in Helion OpenStack environment
+
+<img align="center" src="https://github.hpe.com/james-rob-garcia/james-rob-garcia.github.hpe.com/raw/master/images/hpe_discover_london.JPG" alt="hpe-discover-london">
+
 - HPE Discover 2016 (Las Vegas)
     - **Title**: _IT Practitioner's Zone: DevOps in Action, Scaling to the Enterprise_
         - Answering myths about applying DevOps in a large enterprise

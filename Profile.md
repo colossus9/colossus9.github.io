@@ -178,7 +178,7 @@ We like to travel when possible for work or leisure in any capacity (hiking, dri
 
 In terms of hobbies, great question! Cars are most likely my favorite...my in-laws live nearby and are Corvette enthusiasts. One day I hope to get a toy I can play with :smiley:. There are a variety of TV shows I like to watch (Game of Thrones, The Blacklist, Scorpion, ...) and movies (lately we have been very heavy on the kid-friendly movies!). While attending South by Southwest in Austin, I visited the Game of Thrones booth and had a chance to sit on the Iron Throne:
 
-<img src="https://github.hpe.com/james-rob-garcia/james-rob-garcia.github.hpe.com/raw/master/images/iron_throne.jpg" alt="iron-throne" align="middle" height="50%" width="50%">
+<img src="https://github.hpe.com/james-rob-garcia/james-rob-garcia.github.hpe.com/raw/master/images/iron_throne_cropped.jpg" alt="iron-throne" align="middle" height="50%" width="50%">
 
 _Got a chance to sit on the Iron Throne in between sessions at South by Southwest in Austin._
 

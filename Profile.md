@@ -4,6 +4,8 @@ _[Switch to GitHub Pages Version](https://pages.github.hpe.com/james-rob-garcia/
 
 # Get to know me - James Garcia
 
+<img src="https://github.hpe.com/james-rob-garcia/james-rob-garcia.github.hpe.com/raw/master/images/profile_picture_large.png" alt="profile-picture" align="middle" height="40%" width="40%">
+
 **Reach out!**
 
 - [LinkedIn](https://www.linkedin.com/in/jrgarcia786)

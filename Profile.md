@@ -4,9 +4,15 @@
 
 James Garcia
 
+- [Who I Am](https://github.hpe.com/james-rob-garcia/james-rob-garcia.github.hpe.com/blob/master/Profile.md#who-i-am)
+- [Ask Me](https://github.hpe.com/james-rob-garcia/james-rob-garcia.github.hpe.com/blob/master/Profile.md#ask-me)
+- [How I Enjoy Working](https://github.hpe.com/james-rob-garcia/james-rob-garcia.github.hpe.com/blob/master/Profile.md#how-i-enjoy-working)
+- [Notable Work](https://github.hpe.com/james-rob-garcia/james-rob-garcia.github.hpe.com/blob/master/Profile.md#notable-work)
+- [Interests and Hobbies](https://github.hpe.com/james-rob-garcia/james-rob-garcia.github.hpe.com/blob/master/Profile.md#interests-and-hobbies)
+
 ## Who I Am
 
-I am an experienced developer with over 7 years working in **Austin, TX** who has a strong sense of empathy leading world-wide teams to implement and support enterprise-grade software development solutions. Whether it is for my immediate team or for the customers I support, my teams practice/promote [DevOps](https://devops.com/the-holistic-nature-of-devops-architecture-and-methodology/) methodology and learn about what makes development organizations productive and placing focus on key aspects that need improvement.
+I am an experienced developer with over 7 years working in [Austin, TX](http://www.austintexas.org/mapexplorer/) who has a strong sense of empathy leading world-wide teams to implement and support enterprise-grade software development solutions. Whether it is for my immediate team or for the customers I support, my teams practice/promote [DevOps](https://devops.com/the-holistic-nature-of-devops-architecture-and-methodology/) methodology and learn about what makes development organizations productive and placing focus on key aspects that need improvement.
 
 We work to eliminate technical debt by **automating where possible**, and we do our due diligence to ensure the value of what we are working on can be realized by the business. This work includes (but is not limited to) **individual technical contributions (writing code, building SDLC pipelines), holding architectural reviews with management, presenting deep technical material at a high level to both peers and management, and speaking directly to customers about solutions**.
 
@@ -87,9 +93,9 @@ Attended other conferences relevant to transformation work we work towards:
 I have given many presentations and training classes, including:
 
 
-- GitHub Enterprise administrator and user training, more than just opening the site and pushing code (Shanghai, China)
+- [GitHub Enterprise administrator](https://enterprise.github.com/) and user training, more than just opening the site and pushing code (Shanghai, China)
 - [FORJ product](http://h41367.www4.hpe.com/campaigns/IT_Experts/pages/forj.html) planning and work sessions (Guadalajara, Mexico)
-- Docker Beginner/Intermediate Training in three locations (Austin, Houston, Fort Collins)
+- [Docker](https://www.docker.com/) Beginner/Intermediate Training in three locations (Austin, Houston, Fort Collins)
 - DevOps Dojo, to give 1-on-1 training to teams in the Austin-area
 - DevOps for IT in multiple locations
 
@@ -103,14 +109,14 @@ Traveled to regional locations for team worksessions:
 
 Recommended books on DevOps:
 
-- _The Phoenix Project_ by Kim, Behr and Spafford
-- _Continuous Delivery_ by Humble and Farley
-- _Leading the Transformation_ by Gruver and Mouser
-- _Lean Enterprise_ by Humble, Molesky & O'Reilly
+- _[The Phoenix Project](https://read.amazon.com/kp/embed?asin=B00AZRBLHO&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_MripybMW9WTQB)_ by Kim, Behr and Spafford
+- _[Continuous Delivery](https://read.amazon.com/kp/embed?asin=B003YMNVC0&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_GtipybHCE3FEJ)_ by Humble and Farley
+- _[Leading the Transformation](https://read.amazon.com/kp/embed?asin=B012P0D4YG&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_yuipybDXABWSF)_ by Gruver and Mouser
+- _[Lean Enterprise](https://read.amazon.com/kp/embed?asin=B00QL5MSF8&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_cvipybA3P9E65)_ by Humble, Molesky & O'Reilly
 
 Additional technical work:
 
-- Primary GitHub Enterprise Administrator at Hewlett Packard
+- Primary [GitHub Enterprise Administrator](https://enterprise.github.com/) at Hewlett Packard
     - Responsible for Infrastructure, Application Training (admin/user), Testing, Monitoring, Analytics, KPI definition and GitHub (vendor) liason
 - GitHub Enterprise Upgrade Pipeline using Ansible and Testing Framework using Selenium
 - Dockerized Administration Utilities for CollabNet Subversion Edge environment

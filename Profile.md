@@ -23,7 +23,7 @@ _[Switch to GitHub Pages Version](https://pages.github.hpe.com/james-rob-garcia/
 - [Notable Work](https://github.hpe.com/james-rob-garcia/james-rob-garcia.github.hpe.com/blob/master/Profile.md#notable-work)
 - [Interests and Hobbies](https://github.hpe.com/james-rob-garcia/james-rob-garcia.github.hpe.com/blob/master/Profile.md#interests-and-hobbies)
 
-## Who I Am
+# Who I Am
 
 I am an experienced developer with over 7 years working in [Austin, TX](http://www.austintexas.org/mapexplorer/) who has a strong sense of empathy leading world-wide teams to implement and support enterprise-grade software development solutions. Whether it is for my immediate team or for the customers I support, my teams practice/promote [DevOps](https://devops.com/the-holistic-nature-of-devops-architecture-and-methodology/) methodology and learn about what makes development organizations productive and placing focus on key aspects that need improvement.
 
@@ -33,13 +33,13 @@ I have **two outstanding children under 5 and a lovely wife in the educational f
 
 I admittedly have not been very active on social media due to the fact I **enjoy talking directly to folks** or prefer writing technical content for distribution, although I am absolutely open to the idea. I have an **optimistic outlook** on work and personal items and enjoy looking for ways to make life **better** for both.
 
-## Ask Me...
+# Ask Me...
 
 ...**anything** you would like to know, whether it is personal or work related. I will try to give you a few details below, but if you would like to have a conversation about how I like to work, what I like to do in my free time, or what my passions are, feel free to ask **anytime**.
 
 My specific goals are not necessarily tied to an individual "type" of work, but rather I strive to understand the needs of a team and how I can apply my expertise to drive solutions, even if it is individual technical work or a higher-level architectural role.
 
-## How I Enjoy Working
+# How I Enjoy Working
 
 We work in a mix of office and remote settings. About 10% of my team is located in the office, but the remainder of the team and the customers we support are remote, in locations all over the world. I am comfortable in either setting (especially in an **asynchronous conversation-based environment**), and have placed a lot of focus on maturing in the remote space with our **ChatOps** solution due to the benefits it provides:
 
@@ -75,7 +75,7 @@ I have had the privilege of serving in multiple roles and capacities over the co
 
 I enjoy working with people from all over the world and always show **empathy** to those who I can make an impact on.
 
-## Notable Work
+# Notable Work
 
 Details are in my Resume, but I'd like to show a few of my more recent highlights below.
 
@@ -156,7 +156,7 @@ Additional technical work:
 
 For additional details, please checkout my Resume, or ask!
 
-## Interests and Hobbies
+# Interests and Hobbies
 
 **For work interests and hobbies,** I am interested in learning about the latest relevant technologies to enable development teams to move at the speed of business. The definition of a developer from my perspective has evolved to include many concepts...no longer is a high-performing developer only involved in coding and database work. To be a high-performing developer, you must also have proficiency in business analysis, automated testing, infrastructure as code, security minded, operations/support, user experience, etc.
 

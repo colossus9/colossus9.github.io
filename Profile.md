@@ -1,5 +1,11 @@
 [Go to GitHub Page](https://pages.github.hpe.com/james-rob-garcia/)
 
+***
+
+[LinkedIn](https://www.linkedin.com/in/jrgarcia786)|[:octocat:GitHub](https://github.com/colossus9)|[Email](jrgarcia786@gmail.com)|[Facebook](http://www.facebook.com/c0lossus9)|[Twitter](https://twitter.com/c0l0ssus9)|[:page_facing_up:Resume](https://pages.github.hpe.com/james-rob-garcia/Resume.md)
+
+***
+
 # Get to know me
 
 James Garcia
@@ -166,3 +172,7 @@ We like to travel when possible for work or leisure in any capacity (hiking, dri
 In terms of hobbies, great question! Cars are most likely my favorite...my in-laws live nearby and are Corvette enthusiasts. One day I hope to get a toy I can play with :smiley:
 
 I enjoy a variety of sports and cheer for my Texas-based college/professional teams, including basketball, baseball, soccer and football. My favorite sport is college football. When given a chance, I will play in any sport on a team...some say I can be quite competitive...
+
+***
+
+Built with my :family: with :heart: using [:octocat:](https://github.com)

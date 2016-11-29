@@ -109,10 +109,10 @@ Traveled to regional locations for team worksessions:
 
 Recommended books on DevOps:
 
-- _[The Phoenix Project](https://read.amazon.com/kp/embed?asin=B00AZRBLHO&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_MripybMW9WTQB)_ by Kim, Behr and Spafford
-- _[Continuous Delivery](https://read.amazon.com/kp/embed?asin=B003YMNVC0&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_GtipybHCE3FEJ)_ by Humble and Farley
-- _[Leading the Transformation](https://read.amazon.com/kp/embed?asin=B012P0D4YG&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_yuipybDXABWSF)_ by Gruver and Mouser
-- _[Lean Enterprise](https://read.amazon.com/kp/embed?asin=B00QL5MSF8&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_cvipybA3P9E65)_ by Humble, Molesky & O'Reilly
+- [_The Phoenix Project_](https://read.amazon.com/kp/embed?asin=B00AZRBLHO&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_MripybMW9WTQB) by Kim, Behr and Spafford
+- [_Continuous Delivery_](https://read.amazon.com/kp/embed?asin=B003YMNVC0&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_GtipybHCE3FEJ) by Humble and Farley
+- [_Leading the Transformation_](https://read.amazon.com/kp/embed?asin=B012P0D4YG&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_yuipybDXABWSF) by Gruver and Mouser
+- [_Lean Enterprise_](https://read.amazon.com/kp/embed?asin=B00QL5MSF8&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_cvipybA3P9E65) by Humble, Molesky & O'Reilly
 
 Additional technical work:
 

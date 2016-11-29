@@ -4,7 +4,7 @@ _[Switch to GitHub Pages Version](https://pages.github.hpe.com/james-rob-garcia/
 
 # Get to know me - James Garcia
 
-**Reach out to Me!**
+**Reach out!**
 
 - [LinkedIn](https://www.linkedin.com/in/jrgarcia786)
 - [GitHub](https://github.com/colossus9)

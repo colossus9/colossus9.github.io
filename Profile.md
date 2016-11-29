@@ -80,6 +80,7 @@ I have served as a technical demo staffer for Hewlett Packard Enterprise (HPE) a
         - Using hubot to deploy Dev/Test/Pro instance of GitHub Enterprise in Helion OpenStack environment
 
 <img src="https://github.hpe.com/james-rob-garcia/james-rob-garcia.github.hpe.com/raw/master/images/hpe_discover_london.JPG" alt="hpe-discover-london" align="middle" height="50%" width="50%">
+
 _Demonstrating a GitHub Enterprise environment build using Hubot, OpenStack and Nagios at HPE Discover London._
 
 - HPE Discover 2016 (Las Vegas)
@@ -88,6 +89,7 @@ _Demonstrating a GitHub Enterprise environment build using Hubot, OpenStack and 
         - Listening to customers to come up with localized solutions       
 
 <img src="https://github.hpe.com/james-rob-garcia/james-rob-garcia.github.hpe.com/raw/master/images/hpe_discover_las_vegas.jpg" alt="hpe-discover-las-vegas" align="middle" height="50%" width="50%">
+
 _Talking to a customer about the benefits of DevOps at HPE Discover Las Vegas._
 
 Attended other conferences relevant to transformation work we work towards:
@@ -107,6 +109,7 @@ I have given many presentations and training classes, including:
 - DevOps for IT in multiple locations
 
 <img src="https://github.hpe.com/james-rob-garcia/james-rob-garcia.github.hpe.com/raw/master/images/hpe_devops.png" alt="hpe-devops-austin" align="middle">
+
 _Presenting at a DevOps IT Transformation talk in Austin, TX._
 
 Traveled to regional locations for team worksessions:
@@ -119,6 +122,7 @@ Traveled to regional locations for team worksessions:
 
 <img src="https://github.hpe.com/james-rob-garcia/james-rob-garcia.github.hpe.com/raw/master/images/hpe_shanghai_1.jpg" alt="hpe-shanghai-1" align="middle" height="75%" width="75%">
 <img src="https://github.hpe.com/james-rob-garcia/james-rob-garcia.github.hpe.com/raw/master/images/hpe_shanghai_2.jpg" alt="hpe-shanghai-2" align="middle" height="75%" width="75%">
+
 _Speaking about GitHub Enterprise to an audience in Shanghai, China._
 
 Recommended books on DevOps:

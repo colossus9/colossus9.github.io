@@ -1,10 +1,10 @@
-_[Switch to GitHub Pages Version](https://pages.github.hpe.com/james-rob-garcia/)_
+_[Switch to GitHub Pages Version](https://colossus9.github.io)_
 
 ***
 
 # Get to know me - James Garcia
 
-<img src="https://github.hpe.com/james-rob-garcia/james-rob-garcia.github.hpe.com/raw/master/images/profile_picture_large.png" alt="profile-picture" align="middle" height="25%" width="25%">
+<img src="https://github.com/colossus9/colossus9.github.io/raw/master/images/profile_picture_large.png" alt="profile-picture" align="middle" height="25%" width="25%">
 
 **Reach out!**
 
@@ -17,11 +17,11 @@ _[Switch to GitHub Pages Version](https://pages.github.hpe.com/james-rob-garcia/
 
 **Sections:**
 
-- [Who I Am](https://github.hpe.com/james-rob-garcia/james-rob-garcia.github.hpe.com/blob/master/Profile.md#who-i-am)
-- [Ask Me](https://github.hpe.com/james-rob-garcia/james-rob-garcia.github.hpe.com/blob/master/Profile.md#ask-me)
-- [How I Enjoy Working](https://github.hpe.com/james-rob-garcia/james-rob-garcia.github.hpe.com/blob/master/Profile.md#how-i-enjoy-working)
-- [Notable Work](https://github.hpe.com/james-rob-garcia/james-rob-garcia.github.hpe.com/blob/master/Profile.md#notable-work)
-- [Interests and Hobbies](https://github.hpe.com/james-rob-garcia/james-rob-garcia.github.hpe.com/blob/master/Profile.md#interests-and-hobbies)
+- [Who I Am](https://github.com/colossus9/colossus9.github.io/blob/master/Profile.md#who-i-am)
+- [Ask Me](https://github.com/colossus9/colossus9.github.io/blob/master/Profile.md#ask-me)
+- [How I Enjoy Working](https://github.com/colossus9/colossus9.github.io/blob/master/Profile.md#how-i-enjoy-working)
+- [Notable Work](https://github.com/colossus9/colossus9.github.io/blob/master/Profile.md#notable-work)
+- [Interests and Hobbies](https://github.com/colossus9/colossus9.github.io/blob/master/Profile.md#interests-and-hobbies)
 
 # Who I Am
 
@@ -94,7 +94,7 @@ I have served as a technical demo staffer for Hewlett Packard Enterprise (HPE) a
         - Shifting left requires two key DevOps practices: continuous testing and continuous deployment
         - Using hubot to deploy Dev/Test/Pro instance of GitHub Enterprise in Helion OpenStack environment
 
-<img src="https://github.hpe.com/james-rob-garcia/james-rob-garcia.github.hpe.com/raw/master/images/hpe_discover_london.JPG" alt="hpe-discover-london" align="middle" height="50%" width="50%">
+<img src="https://github.com/colossus9/colossus9.github.io/raw/master/images/hpe_discover_london.JPG" alt="hpe-discover-london" align="middle" height="50%" width="50%">
 
 _Demonstrating a GitHub Enterprise environment build using Hubot, OpenStack and Nagios at HPE Discover London._
 
@@ -103,7 +103,7 @@ _Demonstrating a GitHub Enterprise environment build using Hubot, OpenStack and 
         - Answering myths about applying DevOps in a large enterprise
         - Listening to customers to come up with localized solutions       
 
-<img src="https://github.hpe.com/james-rob-garcia/james-rob-garcia.github.hpe.com/raw/master/images/hpe_discover_las_vegas.jpg" alt="hpe-discover-las-vegas" align="middle" height="50%" width="50%">
+<img src="https://github.com/colossus9/colossus9.github.io/raw/master/images/hpe_discover_las_vegas.jpg" alt="hpe-discover-las-vegas" align="middle" height="50%" width="50%">
 
 _Talking to a customer about the benefits of DevOps at HPE Discover Las Vegas._
 
@@ -123,7 +123,7 @@ I have given many presentations and training classes, including:
 - DevOps Dojo, to give 1-on-1 training to teams in the Austin-area
 - DevOps for IT in multiple locations
 
-<img src="https://github.hpe.com/james-rob-garcia/james-rob-garcia.github.hpe.com/raw/master/images/hpe_devops.png" alt="hpe-devops-austin" align="middle">
+<img src="https://github.com/colossus9/colossus9.github.io/raw/master/images/hpe_devops.png" alt="hpe-devops-austin" align="middle">
 
 _Presenting at a DevOps IT Transformation talk in Austin, TX._
 
@@ -135,8 +135,8 @@ Traveled to regional locations for team worksessions:
 - SCM supplemental artifact hosting repository design (Palo Alto)
 - Promotion of GitHub Enterprise as central to IT innovation (Fort Collins)
 
-<img src="https://github.hpe.com/james-rob-garcia/james-rob-garcia.github.hpe.com/raw/master/images/hpe_shanghai_1.jpg" alt="hpe-shanghai-1" align="middle" height="75%" width="75%">
-<img src="https://github.hpe.com/james-rob-garcia/james-rob-garcia.github.hpe.com/raw/master/images/hpe_shanghai_2.jpg" alt="hpe-shanghai-2" align="middle" height="75%" width="75%">
+<img src="https://github.com/colossus9/colossus9.github.io/raw/master/images/hpe_shanghai_1.jpg" alt="hpe-shanghai-1" align="middle" height="75%" width="75%">
+<img src="https://github.com/colossus9/colossus9.github.io/raw/master/images/hpe_shanghai_2.jpg" alt="hpe-shanghai-2" align="middle" height="75%" width="75%">
 
 _Speaking about GitHub Enterprise to an audience in Shanghai, China._
 
@@ -180,7 +180,7 @@ We like to travel when possible for work or leisure in any capacity (hiking, dri
 
 In terms of hobbies, great question! Cars are most likely my favorite...my in-laws live nearby and are Corvette enthusiasts. One day I hope to get a toy I can play with :smiley:. There are a variety of TV shows I like to watch (Game of Thrones, The Blacklist, Scorpion, ...) and movies (lately we have been very heavy on the kid-friendly movies!). While attending South by Southwest in Austin, I visited the Game of Thrones booth and had a chance to sit on the Iron Throne:
 
-<img src="https://github.hpe.com/james-rob-garcia/james-rob-garcia.github.hpe.com/raw/master/images/iron_throne_cropped.jpg" alt="iron-throne" align="middle" height="50%" width="50%">
+<img src="https://github.com/colossus9/colossus9.github.io/raw/master/images/iron_throne_cropped.jpg" alt="iron-throne" align="middle" height="50%" width="50%">
 
 _Got a chance to sit on the Iron Throne in between sessions at South by Southwest in Austin._
 

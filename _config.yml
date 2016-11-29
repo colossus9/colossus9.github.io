@@ -1,5 +1,5 @@
-url : https://pages.github.hpe.com/james-rob-garcia/
-code : https://github.hpe.com/james-rob-garcia/james-rob-garcia.github.hpe.com
+url : https://colossus9.github.io
+code : https://github.com/colossus9/colossus9.github.io
 title : James Garcia
 subtitle : About Me
 
@@ -7,7 +7,7 @@ author :
   name : James Garcia
   email : mailto:jrgarcia786@gmail.com
   description : Get to know me
-  markdown : https://github.hpe.com/james-rob-garcia/james-rob-garcia.github.hpe.com/blob/master/Profile.md
+  markdown : https://github.com/colossus9/colossus9.github.io/blob/master/Profile.md
   linkedin: https://www.linkedin.com/in/jrgarcia786
   github : https://github.com/colossus9
   twitter : https://twitter.com/c0l0ssus9
@@ -18,7 +18,7 @@ author :
 
 markdown : kramdown
 highlighter : rouge
-baseurl : /james-rob-garcia
+baseurl : /colossus9
 
 # Default date format is "ordinal" (resulting in "July 22nd 2016")
 # You can customize the format as defined in

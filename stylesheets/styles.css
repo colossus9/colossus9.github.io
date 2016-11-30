@@ -717,7 +717,7 @@ dt {
   box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
 }
 #header nav {
-  max-width: 650px;
+  max-width: 430px;
   margin: 0 auto;
   padding: 0 10px;
   /*background: blue;*/
@@ -753,9 +753,9 @@ dt {
   -o-box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.3), 0px 3px 7px rgba(0, 0, 0, 0.7);
   box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.3), 0px 3px 7px rgba(0, 0, 0, 0.7);
   background-color: #93bd20;
-  padding: 10px 12px;
+  padding: 5px 5px;
   margin-top: 6px;
-  line-height: 14px;
+  line-height: 12px;
   font-size: 14px;
   display: inline-block;
   text-align: center;

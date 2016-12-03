@@ -13,7 +13,7 @@ _[Switch to GitHub Pages Version](https://colossus9.github.io)_
 - [Email](mailto:jrgarcia786@gmail.com)
 - [Facebook](https://www.facebook.com/c0lossus9)
 - [Twitter](https://twitter.com/c0l0ssus9)
-- [Resume](https://pages.github.hpe.com/james-rob-garcia/Resume.md)
+- [Resume](https://github.com/colossus9/colossus9.github.io/blob/master/Resume.pdf)
 
 **Sections:**
 

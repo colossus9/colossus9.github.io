@@ -11,9 +11,21 @@ subtitle: James Garcia
     <div id="title">
       <h1>{{ page.header }}</h1>
       <p>{{ page.subtitle }}</p>
+      <h6 align="middle"><a href="{{ site.baseurl }}"><i class="fa fa-home" aria-hidden="true"></i> Home</a></h6>
       <hr>
-      <span class="credits right"><a href="https://colossus9.github.io"><i class="fa fa-home"></i> Back to Home</a></span>
-    </div><!-- end title section -->
+      <span class="credits left">
+        <ul>
+          <li>Page <i class="fa fa-code"></i> located on <a href="{{ site.code }}" target="_blank"><i class="fa fa-github"></i> GitHub</a></li>
+          <li><a href="{{ site.baseurl }}/philosophy.html"><i class="fa fa-lightbulb-o" aria-hidden="true"></i> Team Philosophy</a></li>
+        </ul>
+      </span>
+      <span class="credits right">
+        <ul>
+          <li><i><a href="{{ site.author.markdown }}">Switch to Markdown Profile</a></i></li>
+          <li><a href="{{ site.baseurl }}/credits.html"><i class="fa fa-id-card-o"></i> Credits</a></li>
+        </ul>
+      </span>
+    </div>
 
 
     <div class="row">
